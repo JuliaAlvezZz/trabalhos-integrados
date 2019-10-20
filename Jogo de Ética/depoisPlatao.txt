@@ -1,0 +1,2 @@
+@	No dia seguinte, você se despede de todos e continua sua viagem.@	Caminhando pela floresta, você se depara com as ruínas de uma igreja. Ao se aproximar você é surpreendido por um espectro que saiu das ruínas.@	<Espectro> - O que o traz aqui?	# - Encontrei este lugar por acaso; estou em uma viagem tentando descobrir o que me trouxe a esta floresta.@	<Espectro> - Eu sou o espírito de Agostinho de Hipona.@	          Me responda uma pergunta e eu te mostrarei o melhor caminho:$
+
